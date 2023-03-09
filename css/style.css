@@ -5,7 +5,7 @@ body {
   font-family: Goudy Old Style, serif; 
 }
 
-.wrapper {
+wrapper {
  max-width: 760px; 
  text-align: center;
  margin-right: auto;
