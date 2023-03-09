@@ -8,6 +8,13 @@ body {
 .wrapper {
  max-width: 760px; 
    text-align: center;
+  
+  margin-right: auto;
+margin-left: auto;
+
+padding-right: 10px; 
+padding-left: 10px;
+}
 }
 article {
   margin-left: 10vw; 
