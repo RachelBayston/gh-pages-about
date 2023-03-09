@@ -2,20 +2,18 @@
 
 body {
   background-color: #edd8c3; 
-  font-family: Georgia, serif; 
+  font-family: Goudy Old Style, serif; 
 }
 
 .wrapper {
  max-width: 760px; 
-   text-align: center;
-  
-  margin-right: auto;
-margin-left: auto;
+ text-align: center;
+ margin-right: auto;
+ margin-left: auto;
+ padding-right: 10px; 
+ padding-left: 10px;
+}
 
-padding-right: 10px; 
-padding-left: 10px;
-}
-}
 article {
   margin-left: 10vw; 
   margin-right: 10vw; 
